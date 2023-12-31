@@ -1,0 +1,25 @@
+type: code
+user-name: teo2823
+stage: immersion
+complexity: 11.75
+others:
+  in: 17
+  out: 17
+  totals: 34
+score:
+  initial: 19.29
+  final: 31.04
+  progress: 11.75
+global-rank:
+  initial: 13867
+  final: 11425
+  progress: 2442
+national-rank:
+  initial: 850
+  final: 706
+  progress: 144
+total-time: 183.5
+effort: 27
+productivity: 0.435
+date: "2023-12-29 21:26:39Z"
+path: teo2823.pony

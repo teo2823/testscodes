@@ -1,0 +1,25 @@
+type: code
+user-name: teo2823
+stage: immersion
+complexity: 4.14
+others:
+  in: 24
+  out: 56
+  totals: 80
+score:
+  initial: 4.58
+  final: 8.72
+  progress: 4.14
+global-rank:
+  initial: 26977
+  final: 21301
+  progress: 5676
+national-rank:
+  initial: 1503
+  final: 1237
+  progress: 266
+total-time: 112.5
+effort: 63
+productivity: 0.06
+date: "2023-12-21 07:15:10Z"
+path: teo2823.lobster
